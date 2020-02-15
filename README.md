@@ -1,4 +1,4 @@
-# Detective-Thupi()
+# Detective-Thupi
 A child is stolen.The boy's father told Detective Thupi to take the case.Detective 'Thupi' takes the case and finds the child.
 It is a very simple game based on unity.The story is inspired by the beatiful Tamil movie **'Thupparivaalan'.**
 
