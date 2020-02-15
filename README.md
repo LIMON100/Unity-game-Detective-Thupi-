@@ -18,3 +18,6 @@ It is a very simple game based on unity.The story is inspired by the beatiful Ta
 ![](https://raw.githubusercontent.com/LIMON100/Unity-game-Detective-Thupi-/master/Thupi%20images/14.PNG)
 ![](https://raw.githubusercontent.com/LIMON100/Unity-game-Detective-Thupi-/master/Thupi%20images/15.PNG)
 ![](https://raw.githubusercontent.com/LIMON100/Unity-game-Detective-Thupi-/master/Thupi%20images/16.PNG)
+![](https://raw.githubusercontent.com/LIMON100/Unity-game-Detective-Thupi-/master/Thupi%20images/17.PNG)
+![](https://raw.githubusercontent.com/LIMON100/Unity-game-Detective-Thupi-/master/Thupi%20images/18.PNG)
+![](https://raw.githubusercontent.com/LIMON100/Unity-game-Detective-Thupi-/master/Thupi%20images/19.PNG)
